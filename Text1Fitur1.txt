@@ -5,3 +5,7 @@ Menu Beranda
 Menu Login
 Menu Buat Akun
 Menu Lihat Divice
+Menu Download
+**Aplikasi 1**
+**Aplikasi 1**
+**Aplikasi 2**
