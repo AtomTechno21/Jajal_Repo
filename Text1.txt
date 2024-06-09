@@ -1,2 +1,7 @@
 Ini tulisan baris pertama
 Ini tambahan dari baris pertama 
+Mulai Baris ini di edit oleh Endriya K
+File yang di edit berisi tentang:
+*Rencana Pembuatan Web
+*Membuat Fitur" ada web
+*Menampilkan web pada lokal komputer
