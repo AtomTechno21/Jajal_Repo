@@ -10,8 +10,10 @@ Menu Beranda
   -Tampilkan Sedikit pin lokasi
   -Tampilkan Juga Foto Lokasi
 Menu Login
+* Tampilan Form Login
 Menu Buat Akun
-Menu Lihat Divice
+* Akun Admin
+* Akun Operator
 Menu Download
 **Aplikasi 1**
 **Aplikasi 1**
