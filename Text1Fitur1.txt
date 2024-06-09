@@ -4,9 +4,11 @@ Menu Beranda
   -Sensor Suhu
   -Sensor Arus
   -Sensor Tegangan
+  -Sensor Frekuensi
 * Tampilkan Alamat di tiap Device
   -Pin Gmaps
   -Tampilkan Sedikit pin lokasi
+  -Tampilkan Juga Foto Lokasi
 Menu Login
 Menu Buat Akun
 Menu Lihat Divice
