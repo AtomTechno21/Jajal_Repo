@@ -1,7 +1,12 @@
 Ini menu pada Fitur 1:
 Menu Beranda
 * Terdiri dari tapilan Device yg sdh conect Web
+  -Sensor Suhu
+  -Sensor Arus
+  -Sensor Tegangan
 * Tampilkan Alamat di tiap Device
+  -Pin Gmaps
+  -Tampilkan Sedikit pin lokasi
 Menu Login
 Menu Buat Akun
 Menu Lihat Divice
