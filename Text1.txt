@@ -1,2 +1,11 @@
 Ini tulisan baris pertama
 Ini tambahan dari baris pertama 
+Mulai Baris ini di edit oleh Endriya K
+File yang di edit berisi tentang:
+*Rencana Pembuatan Web
+*Membuat Fitur" pada web
+*Menampilkan web pada lokal komputer
+*Menampilkan web dapat di akses online
+*Membuat Tampilan Menu Utama
+*Membuat Tampilan Menu untuk Device IoT
+*Menampilkan Koneksi Device dengan Dashboard
