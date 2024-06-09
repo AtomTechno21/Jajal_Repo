@@ -3,8 +3,10 @@ Menu Beranda
 * Terdiri dari tapilan Device yg sdh conect Web
 * Tampilkan Alamat di tiap Device
 Menu Login
+* Tampilan Form Login
 Menu Buat Akun
-Menu Lihat Divice
+* Akun Admin
+* Akun Operator
 Menu Download
 **Aplikasi 1**
 **Aplikasi 1**
