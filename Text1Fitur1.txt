@@ -1,5 +1,7 @@
 Ini menu pada Fitur 1:
 Menu Beranda
+* Terdiri dari tapilan Device yg sdh conect Web
+* Tampilkan Alamat di tiap Device
 Menu Login
 Menu Buat Akun
 Menu Lihat Divice
